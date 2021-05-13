@@ -6,3 +6,6 @@ y = np.genfromtxt("../../data/y.csv")
 
 plt.plot(x,y)
 plt.show()
+
+
+Print("Hello Talia this is the new version")
